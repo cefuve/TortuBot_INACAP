@@ -65,12 +65,13 @@ void setup() {
 }
 
 void loop() {
-  if ( !Tortu.sensorRead(IR::CENTER) ) {
+  if ( Tortu.sensorRead(IR::CENTER) ) {
     Tortu.moveForward();
   } else {
-    Tortu.robotStop();
+    Tortu.stop();
   }
 }
+```
 
 ## Autor
 
