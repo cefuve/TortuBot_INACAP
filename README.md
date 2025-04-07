@@ -72,7 +72,6 @@ void loop() {
   }
 }
 ```
-
 ## Autor
 
 - [César Fuenzalida Vergara](https://www.cefuve.com/)
