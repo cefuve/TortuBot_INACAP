@@ -1,0 +1,34 @@
+#######################################
+# Data types (KEYWORD1)
+#######################################
+TortuBot    KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+sensorRead	KEYWORD2
+setVelocity	KEYWORD2
+robotStop	KEYWORD2
+moveForward	KEYWORD2
+moveReverse	KEYWORD2
+turnLeft	KEYWORD2
+turnRight	KEYWORD2
+sayR2D2		KEYWORD2
+beep	KEYWORD2
+
+#######################################
+# Literals (LITERAL1)
+#######################################
+IR      LITERAL1
+LEFT	LITERAL1
+CENTER  LITERAL1
+RIGHT	LITERAL1
+IR_L	LITERAL1
+IR_C	LITERAL1
+IR_R	LITERAL1
+M1_FW	LITERAL1
+M1_RV	LITERAL1
+M2_FW	LITERAL1
+M2_RV	LITERAL1
+BUZZER	LITERAL1
