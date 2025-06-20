@@ -1,5 +1,5 @@
 /*
-  TortuBot INACAP
+  TortuBot lite
 
   Copyright (c) 2025 CEAR INACAP.  All right reserved.
   License: GPL 3.0.
@@ -16,7 +16,7 @@
   Desarrollador: Tinker Twins
 */
 
-#include <TortuBot_INACAP.h>
+#include <TortuBot_lite.h>
 #include "BluetoothSerial.h"
 
 TortuBot Tortu;                             // ¡Dale vida a tu robot poniéndole un nombre!

@@ -1,4 +1,4 @@
-# TortuBot_INACAP
+# TortuBot_lite
 
 **Librería para controlar el robot educativo móvil TortuBot**, diseñada para el aprendizaje de programación y robótica en entornos Arduino.  
 
@@ -55,7 +55,7 @@ Esta librería permite controlar motores, sensores infrarrojos y emitir sonidos 
 ## ⚡ Ejemplo de uso
 
 ```cpp
-#include <TortuBot_INACAP.h>
+#include <TortuBot_lite.h>
 
 TortuBot Tortu;
 

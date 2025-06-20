@@ -1,5 +1,5 @@
 /*
-  TortuBot_INACAP.h - Main include file for pin definitions
+  TortuBot_lite.h - Main include file for pin definitions
   Copyright (c) 2025 CEAR INACAP.
 
   This program is free software: you can redistribute it and/or modify

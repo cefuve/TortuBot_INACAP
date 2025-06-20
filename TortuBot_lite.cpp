@@ -1,5 +1,5 @@
 /*
-  TortuBot_INACAP.cpp - Main include file for robot functions
+  TortuBot_lite.cpp - Main include file for robot functions
   Copyright (c) 2025 CEAR INACAP.
 
   This program is free software: you can redistribute it and/or modify
@@ -19,7 +19,7 @@
   Author: César Fuenzalida Vergara (cefuve.com)
 */
 
-#include "TortuBot_INACAP.h"
+#include "TortuBot_lite.h"
 
 /**
  * @brief Constructor del TortuBot.
